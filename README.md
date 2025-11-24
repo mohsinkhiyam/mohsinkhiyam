@@ -59,8 +59,8 @@
   <h2 align="center">Backend</h2>
   <div align="center">
    <img src=https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white />&nbsp;
-   <img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge />&nbsp;  
-   <img src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 />&nbsp;
+   <!-- <img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge />&nbsp;  
+   <img src=https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 />&nbsp; -->
    
    </div>
  </td>
@@ -70,7 +70,7 @@
      <img src=https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white />&nbsp;
      <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white />&nbsp;
-     <br/><a src=https://isar.dev/isar.svg >ISAR DB</a>
+     <!-- <br/><a src=https://isar.dev/isar.svg >ISAR DB</a> -->
    </div>
   </td>
   </tr>
@@ -81,29 +81,29 @@
      <h2 align="center">Mobile App Dev & Cloud</h2>
      <div class="note" align="center">
       <img src=https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white />&nbsp;
-      <img src=https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white />&nbsp;
-      <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white />&nbsp;
+      <!-- <img src=https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white />&nbsp;
+      <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white />&nbsp; -->
       <img src=https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white />&nbsp;
      </div>
     </td>
    <td valign="top" width="33%">
       <h2 align="center">Devops & Versioning</h2>
       <div class="note" align="center">
-       <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;
+       <!-- <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp; -->
        <img src=https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white />&nbsp;
        <img src=https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white />&nbsp;
-       <img src=https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white />&nbsp;
+       <!-- <img src=https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white />&nbsp;
        <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white />&nbsp;
-       <img src=https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white />&nbsp;
+       <img src=https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white />&nbsp; -->
       </div>
      </td>
     <td valign="top" width="33%">
       <h2 align="center">Design</h2>
       <div class="note" align="center">
        <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white />&nbsp;
-       <img src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 />&nbsp;
+       <!-- <img src=https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 />&nbsp;
        <img src=https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white/>&nbsp;
-       <br/><a src=https://zeplin.io/ >ZEPLIN</a>
+       <br/><a src=https://zeplin.io/ >ZEPLIN</a> -->
       </div>
      </td>
   </tr>
