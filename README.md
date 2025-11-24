@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohsin Khiyam
 
-<!--
-**mohsinkhiyam/mohsinkhiyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am passionate about software development, learning new technologies, and sharing my knowledge with the community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 GitHub Stats
+
+![Mohsin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohsinkhiyam&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhiyam&layout=compact&theme=radical)
+
+---
+
+## 🔹 GitHub Profile Summary Card
+
+[![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinkhiyam&theme=dracula)](https://github.com/mohsinkhiyam)
+
+[![streak](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinkhiyam&theme=dracula)](https://github.com/mohsinkhiyam)
+
+[![languages](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohsinkhiyam&theme=dracula)](https://github.com/mohsinkhiyam)
+
+---
+
+## 🔹 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohsinKhiyam-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsinkhiyam/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@mohsinkhiyam-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mohsinkhiyam)  
+
+---
+
