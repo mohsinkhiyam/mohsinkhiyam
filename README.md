@@ -46,7 +46,7 @@
 
 <table>
  <tr>
-  <td valign="top" width="100%">
+  <td valign="top" width="33%">
     <h2 align="center">Frontend</h2>
     <div align="center">
      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;
@@ -55,7 +55,7 @@
      <!-- <img height=20 width=20 src=https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white/>&nbsp; -->
     </div>
   </td>
-  <td valign="top" width="100%">
+  <td valign="top" width="33%">
   <h2 align="center">Backend</h2>
   <div align="center">
    <img src=https://img.shields.io/badge/NODEJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white />&nbsp;
