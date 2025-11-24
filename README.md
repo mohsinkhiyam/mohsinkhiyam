@@ -19,7 +19,7 @@
  <p align="center">
 <a href="mailto:mohsinkhiyam@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail-new.png" alt="Gmail"/></a>
 <a href="https://github.com/mohsinkhiyam"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/mohsinkhiyam/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mohsin-khayam/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <!-- <a href="https://www.facebook.com/mohsinkhiyam/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 <a href="https://www.instagram.com/mohsinkhiyam/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
  </p> -->
